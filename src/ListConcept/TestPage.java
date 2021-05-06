@@ -4,6 +4,8 @@ public class TestPage {
   int i;
   int k;
   int l;
+  int t;
+  int p;
   
 
 	
