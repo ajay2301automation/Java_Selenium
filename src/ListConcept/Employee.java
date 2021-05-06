@@ -6,6 +6,8 @@ public class Employee {
 	int age;
 	String department;
 	
+	
+	
 	Employee(String name, int age, String department)
 	{
 		this.name=name;// it means global name is local name here as we are initiallizing global variables
