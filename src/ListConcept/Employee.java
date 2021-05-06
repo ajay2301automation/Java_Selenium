@@ -6,7 +6,11 @@ public class Employee {
 	int age;
 	String department;
 	
+
 	
+
+	int d;
+
 	
 	Employee(String name, int age, String department)
 	{

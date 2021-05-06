@@ -1,6 +1,10 @@
 package ListConcept;
 
 public class TestPage {
+  int i;
+  int k;
+  int l;
+  
 
 	
 	public void searchPageMethod()
